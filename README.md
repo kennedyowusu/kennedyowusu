@@ -28,6 +28,38 @@ First and foremost, I love writing code. Ever since writing my first program in 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+<br>
+
+## 🔥 Streak Stats
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kennedyowusu&theme=algolia" alt="kennedyowusu" /></p>
+
+<br>
+
+ ### 👉 Operating Systems
+ 
+<p align="left">
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>  
+</p>
+
+<br/>
+
+## 📊 Github Stats
+
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="left">
+    <a href="https://github.com/kennedyowusu/github-readme-stats"><img alt="Kennedy Owusu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kennedyowusu&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kennedyowusu&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="kennedyowusu" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+
+----
 
 ### Socials
 
@@ -43,5 +75,6 @@ First and foremost, I love writing code. Ever since writing my first program in 
 
 <a href="https://github.com/kennedyowusu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kennedyowusu&stroke=64748b&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=64748b&currStreakLabel=0891b2&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 
-<a href="http://www.github.com/kennedyowusu"><img src="https://activity-graph.herokuapp.com/graph?username=sosualfred&bg_color=ffffff&color=64748b&line=0891b2&point=64748b&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/kennedyowusu"><img src="https://activity-graph.herokuapp.com/graph?username=kennedyowusu&bg_color=ffffff&color=64748b&line=0891b2&point=64748b&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 -->
