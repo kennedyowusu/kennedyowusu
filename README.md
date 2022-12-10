@@ -4,6 +4,10 @@ Hi 👋 My name is Kennedy Owusu
 👨🏾‍💻 Full-stack Developer & Mobile App Developer(Open to Opportunities)
 --------------------------------------------------------------------
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%230AF7A6&center=true&vCenter=true&lines=Passionate+Developer;Competitive+Programmer;Fast+Learner"></a>
+</p>
+
 A passionate developer deploying end-to-end web and mobile app solutions that help businesses scale while saving time and cost over the past 3 years. 
 
 First and foremost, I love writing code. Ever since writing my first program in JavaScript and manipulating it to produce the desired output, I have been obsessed with the idea of using software to solve practical problems. Software engineering is a never-ending puzzle that I am passionately engaged in solving. I believe in the power of programming to transform and improve the lives of people around the world.
@@ -54,14 +58,14 @@ First and foremost, I love writing code. Ever since writing my first program in 
     <a href="https://github.com/kennedyowusu/github-readme-stats"><img alt="Kennedy Owusu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kennedyowusu&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kennedyowusu&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="kennedyowusu" height="192px"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kennedyowusu&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="kennedyowusu" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 
 ----
 
-### Socials
+### Connect with me
 
 <p align="left"> <a href="https://github.com/kennedyowusu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kennedy-owusu/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://twitter.com/_iamkobby" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/UCkGH8kYlQAgtB8MuuHOsvJQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 </p>
@@ -78,3 +82,12 @@ First and foremost, I love writing code. Ever since writing my first program in 
 <a href="http://www.github.com/kennedyowusu"><img src="https://activity-graph.herokuapp.com/graph?username=kennedyowusu&bg_color=ffffff&color=64748b&line=0891b2&point=64748b&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 -->
+
+<br/>
+
+## :trophy: Git profile Trophies
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kennedyowusu&layout=compact&theme=algolia" alt="kennedyowusu" /></a> </p>
+
+-----
+Credits: [kennedyowusu](https://github.com/kennedyowusu)
