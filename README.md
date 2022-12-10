@@ -32,8 +32,6 @@ First and foremost, I love writing code. Ever since writing my first program in 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-<br>
-
 ## 🔥 Streak Stats
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kennedyowusu&theme=algolia" alt="kennedyowusu" /></p>
 
@@ -46,15 +44,13 @@ First and foremost, I love writing code. Ever since writing my first program in 
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>  
 </p>
 
-<br/>
-
 ## 📊 Github Stats
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="left">
     <a href="https://github.com/kennedyowusu/github-readme-stats"><img alt="Kennedy Owusu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kennedyowusu&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
+  
   &nbsp;
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kennedyowusu&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="kennedyowusu" height="192px"/>
   <br/>
