@@ -37,8 +37,6 @@ First and foremost, I love writing code. Ever since writing my first program in 
 ## 🔥 Streak Stats
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kennedyowusu&theme=algolia" alt="kennedyowusu" /></p>
 
-<br>
-
  ### 👉 Operating Systems
  
 <p align="left">
