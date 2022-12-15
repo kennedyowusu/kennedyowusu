@@ -8,6 +8,8 @@ Hi 👋 My name is Kennedy Owusu
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%230AF7A6&center=true&vCenter=true&lines=Passionate+Developer;Competitive+Programmer;Fast+Learner"></a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=kennediowusu&style=flat-square&label=PROFILE+VIEWS&color=lightgrey)
+
 A passionate developer deploying end-to-end web and mobile app solutions that help businesses scale while saving time and cost over the past 3 years. 
 
 First and foremost, I love writing code. Ever since writing my first program in JavaScript and manipulating it to produce the desired output, I have been obsessed with the idea of using software to solve practical problems. Software engineering is a never-ending puzzle that I am passionately engaged in solving. I believe in the power of programming to transform and improve the lives of people around the world.
