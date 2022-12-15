@@ -3,8 +3,9 @@ Hi 👋 My name is Kennedy Owusu
 
 👨🏾‍💻 Full-Stack & Mobile Application Developer (Open to Opportunities)
 --------------------------------------------------------------------
+ ![](https://image.ibb.co/jEkcdd/front_end_developers_openings_1.gif)
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%230AF7A6&center=true&vCenter=true&lines=Passionate+Developer;Competitive+Programmer;Fast+Learner"></a>
 </p>
 
