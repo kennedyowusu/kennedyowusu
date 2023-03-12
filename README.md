@@ -11,9 +11,7 @@ Hi 👋 My name is Kennedy Owusu
 
 ![](https://komarev.com/ghpvc/?username=kennediowusu&style=flat-square&label=PROFILE+VIEWS&color=lightgrey)
 
-A passionate developer deploying end-to-end web and mobile app solutions that help businesses scale while saving time and cost over the past 3 years. 
-
-First and foremost, I love writing code. Ever since writing my first program in JavaScript and manipulating it to produce the desired output, I have been obsessed with the idea of using software to solve practical problems. Software engineering is a never-ending puzzle that I am passionately engaged in solving. I believe in the power of programming to transform and improve the lives of people around the world.
+Over the past three years, I have gained extensive experience in deploying end-to-end web and mobile app solutions that enable businesses to scale efficiently while reducing both time and cost. My passion lies in writing code and utilizing software engineering to solve practical problems. I am devoted to continuously improving my skills in order to better serve my clients and positively impact society. My belief in the transformative power of programming motivates me to work tirelessly to provide innovative solutions that enhance the lives of people globally.
 
 😍 When I am away from my computer, you'd find me reading personal development books or sleeping. 😴
 
