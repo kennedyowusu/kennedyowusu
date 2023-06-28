@@ -1,7 +1,7 @@
 Hi 👋 My name is Kennedy Owusu
 ==============================
 
-👨🏾‍💻 Full-Stack & Mobile Application Developer (Open to Opportunities)
+👨🏾‍💻 Front-end & Mobile Application Developer (Open to Opportunities)
 --------------------------------------------------------------------
 <!--  ![](https://image.ibb.co/jEkcdd/front_end_developers_openings_1.gif) -->
 <img width="100%" src="https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966">
@@ -12,17 +12,30 @@ Hi 👋 My name is Kennedy Owusu
 
 ![](https://komarev.com/ghpvc/?username=kennediowusu&style=flat-square&label=PROFILE+VIEWS&color=lightgrey)
 
-Over the past three years, I have gained extensive experience in deploying end-to-end web and mobile app solutions that enable businesses to scale efficiently while reducing both time and cost. My passion lies in writing code and utilizing software engineering to solve practical problems. I am devoted to continuously improving my skills in order to better serve my clients and positively impact society. My belief in the transformative power of programming motivates me to work tirelessly to provide innovative solutions that enhance the lives of people globally.
+Throughout the course of the past three years, I have amassed considerable expertise in implementing comprehensive web and mobile application solutions that facilitate the seamless expansion of businesses, concurrently optimizing both time and expenditure. My fervor lies in the realm of coding and harnessing the potential of software engineering to address real-world challenges effectively. I remain steadfast in my commitment to incessantly enhance my proficiencies, thereby enabling me to deliver superior outcomes to my clients and make a meaningful impact on society. Grounded in a firm belief in the transformative capabilities of programming, I ardently dedicate myself to crafting inventive resolutions that enrich the lives of individuals on a global scale.
 
 😍 When I am away from my computer, you'd find me reading personal development books or sleeping. 😴
 
-💻🗣 Key Languages: | JavaScript | SQL | PHP | Dart |
+🔥 Programming Languages: | JavaScript | Dart | Typescript |
 
-🛠 Tools: | ReactJS | Redux | Flutter | Laravel | Firebase | Heroku | Github |
+🛠 Technology: | ReactJS | Redux | Flutter | Github |
+
+🚀 Libraries & Frameworks: | Flutter | React |
+
+🌿 Sate Management: | Redux Toolkit | Riverpod | GetX |
+
+🗣 Database Management: | SQL | MySQL | MongoDB | PostgreSQL | Firebase |
+
+💻 Operating Systems: | Ubuntu | Windows | MacOS |
+
+🎯 Version Control: | Git |
+
+💡 Developer tools: | GitHub | GitLab | Bitbucket | Slack |
+
+📊 Software Development Methodologies: | Agile |
 
 - [ ] 🌍  I'm based in Accra - Ghana
 - [ ] ✉️  You can contact me at [kennediowusu@gmail.com](mailto:kennediowusu@gmail.com)
-- [ ] 🚀  I am currently working on [Edufund GH](http://edufundgh.org/) and studying at [Microverse](https://www.microverse.org/)
 
 ### Skills
 
