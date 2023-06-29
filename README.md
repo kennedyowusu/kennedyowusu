@@ -16,7 +16,7 @@ Throughout the course of the past three years, I have amassed considerable exper
 
 --------------------------------------------------------------------
 
-🔥 Programming Languages: | JavaScript | Dart | Typescript |
+🔥 Programming Languages: | JavaScript | Dart | TypeScript |
 
 🛠 Technology: | ReactJS | Redux | Flutter | Github |
 
