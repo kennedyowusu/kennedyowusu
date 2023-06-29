@@ -20,7 +20,7 @@ Throughout the course of the past three years, I have amassed considerable exper
 
 🛠 Technology: | ReactJS | Redux | Flutter | Github |
 
-🚀 Libraries & Frameworks: | Flutter | React |
+🚀 Libraries & Frameworks: | Flutter | React | Tailwind CSS |
 
 ❣️ Sate Management: | Redux Toolkit | Riverpod | GetX |
 
