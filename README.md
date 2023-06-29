@@ -18,7 +18,7 @@ Throughout the course of the past three years, I have amassed considerable exper
 
 🔥 Programming Languages: | JavaScript | Dart | TypeScript |
 
-🛠 Technology: | ReactJS | Redux | Flutter | Github |
+🛠 Technology: | ReactJS | Redux | Flutter |
 
 🚀 Libraries & Frameworks: | Flutter | React | Tailwind CSS |
 
