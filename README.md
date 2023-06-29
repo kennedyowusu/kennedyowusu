@@ -22,7 +22,7 @@ Throughout the course of the past three years, I have amassed considerable exper
 
 🚀 Libraries & Frameworks: | Flutter | React |
 
-🌿 Sate Management: | Redux Toolkit | Riverpod | GetX |
+❣️ Sate Management: | Redux Toolkit | Riverpod | GetX |
 
 🗣 Database Management: | SQL | MySQL | MongoDB | PostgreSQL | Firebase |
 
