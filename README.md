@@ -1,16 +1,16 @@
 Hi 👋 My name is Kennedy Owusu
 ==============================
 
-👨🏾‍💻 Frontend Mobile Application Developer (Open to Opportunities)
+👨🏾‍💻 Full Stack Mobile Application Developer (Open to Opportunities)
 --------------------------------------------------------------------
 
-<p align="left">
+<p align="left center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%230AF7A6&center=true&vCenter=true&lines=Passionate+Developer;Competitive+Programmer;Fast+Learner"></a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=kennediowusu&style=flat-square&label=PROFILE+VIEWS&color=lightgrey)
 
-Throughout the course of the past three years, I have amassed considerable expertise in implementing comprehensive web and mobile application solutions that facilitate the seamless expansion of businesses, concurrently optimizing both time and expenditure. My fervor lies in the realm of coding and harnessing the potential of software engineering to address real-world challenges effectively. I remain steadfast in my commitment to incessantly enhance my proficiencies, thereby enabling me to deliver superior outcomes to my clients and make a meaningful impact on society. Grounded in a firm belief in the transformative capabilities of programming, I ardently dedicate myself to crafting inventive resolutions that enrich the lives of individuals on a global scale.
+Throughout the course of the past four years, I have amassed considerable expertise in implementing comprehensive web and mobile application solutions that facilitate the seamless expansion of businesses, concurrently optimizing both time and expenditure. My fervor lies in the realm of coding and harnessing the potential of software engineering to address real-world challenges effectively. I remain steadfast in my commitment to incessantly enhance my proficiencies, thereby enabling me to deliver superior outcomes to my clients and make a meaningful impact on society. Grounded in a firm belief in the transformative capabilities of programming, I ardently dedicate myself to crafting inventive resolutions that enrich the lives of individuals on a global scale.
 
 --------------------------------------------------------------------
 
