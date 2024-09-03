@@ -10,7 +10,7 @@ Hi 👋 My name is Kennedy Owusu
 
 ![](https://komarev.com/ghpvc/?username=kennediowusu&style=flat-square&label=PROFILE+VIEWS&color=lightgrey)
 
-Throughout the course of the past four years, I have amassed considerable expertise in implementing comprehensive web and mobile application solutions that facilitate the seamless expansion of businesses, concurrently optimizing both time and expenditure. My fervor lies in the realm of coding and harnessing the potential of software engineering to address real-world challenges effectively. I remain steadfast in my commitment to incessantly enhance my proficiencies, thereby enabling me to deliver superior outcomes to my clients and make a meaningful impact on society. Grounded in a firm belief in the transformative capabilities of programming, I ardently dedicate myself to crafting inventive resolutions that enrich the lives of individuals on a global scale.
+Throughout the course of the past five years, I have amassed considerable expertise in implementing comprehensive web and mobile application solutions that facilitate the seamless expansion of businesses, concurrently optimizing both time and expenditure. My fervor lies in the realm of coding and harnessing the potential of software engineering to address real-world challenges effectively. I remain steadfast in my commitment to incessantly enhance my proficiencies, thereby enabling me to deliver superior outcomes to my clients and make a meaningful impact on society. Grounded in a firm belief in the transformative capabilities of programming, I ardently dedicate myself to crafting inventive resolutions that enrich the lives of individuals on a global scale.
 
 --------------------------------------------------------------------
 
@@ -20,9 +20,9 @@ Throughout the course of the past four years, I have amassed considerable expert
 
 🚀 Libraries & Frameworks: | Flutter | React | Tailwind CSS |
 
-❣️ Sate Management: | Redux Toolkit | Riverpod | GetX |
+❣️ Sate Management: | Redux Toolkit | React Query | Riverpod | GetX |
 
-🗣 Database Management: | SQL | MySQL | MongoDB | PostgreSQL | Firebase |
+🗣 Database Management: | MySQL | PostgreSQL | Firebase |
 
 💻 Operating Systems: | Ubuntu | Windows | MacOS |
 
