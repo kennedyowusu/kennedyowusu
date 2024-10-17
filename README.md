@@ -1,7 +1,7 @@
 Hi 👋 My name is Kennedy Owusu
 ==============================
 
-👨🏾‍💻 Full Stack Mobile Application Developer (Open to Opportunities)
+👨🏾‍💻 Full Stack Web & Mobile Apps Developer (Open to Opportunities)
 --------------------------------------------------------------------
 
 <p align="left center">
