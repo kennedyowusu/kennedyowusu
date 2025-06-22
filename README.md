@@ -1,7 +1,7 @@
 Hi 👋 My name is Kennedy Owusu
 ==============================
 
-👨🏾‍💻 Fullstack Engineer | Expert in React & Flutter (Open to Opportunities)
+👨🏾‍💻 Full-Stack Engineer | I build Digital Solutions and grow Engineering Talent (Open to Opportunities)
 --------------------------------------------------------------------
 
 <p align="left center">
