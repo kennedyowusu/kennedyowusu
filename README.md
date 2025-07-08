@@ -1,7 +1,7 @@
 Hi 👋 My name is Kennedy Owusu
 ==============================
 
-👨🏾‍💻 Full-Stack Engineer | I build Digital Solutions and grow Engineering Talent (Open to Opportunities)
+👨🏾‍💻 Frontend Engineer | I build Digital Solutions and grow Engineering Talent (Open to Opportunities)
 --------------------------------------------------------------------
 
 <p align="left center">
