@@ -1,7 +1,7 @@
-Hi 👋 My name is Kennedy Owusu
+# Hi, I'm Kennedy 👋
 ==============================
 
-👨🏾‍💻 Frontend Engineer | I build Digital Solutions and grow Engineering Talent (Open to Opportunities)
+👨🏾‍💻 Frontend Engineer building seamless experiences across web and mobile platforms.
 --------------------------------------------------------------------
 
 <p align="left center">
@@ -10,27 +10,27 @@ Hi 👋 My name is Kennedy Owusu
 
 ![](https://komarev.com/ghpvc/?username=kennediowusu&style=flat-square&label=PROFILE+VIEWS&color=lightgrey)
 
-Throughout the course of the past five years, I have amassed considerable expertise in implementing comprehensive web and mobile application solutions that facilitate the seamless expansion of businesses, concurrently optimizing both time and expenditure. My fervor lies in the realm of coding and harnessing the potential of software engineering to address real-world challenges effectively. I remain steadfast in my commitment to incessantly enhance my proficiencies, thereby enabling me to deliver superior outcomes to my clients and make a meaningful impact on society. Grounded in a firm belief in the transformative capabilities of programming, I ardently dedicate myself to crafting inventive resolutions that enrich the lives of individuals on a global scale.
+## 🚀 What I Build
+- Cross-platform mobile apps with React Native & Flutter
+- Responsive web applications with React
+- Strong foundation in vanilla JavaScript
 
---------------------------------------------------------------------
+## 🛠️ Tech Stack
+- **Frontend:** React, JavaScript, TypeScript, Dart, HTML5, CSS3
+- **Mobile:** React Native, Flutter
+- **Tools:** Git, VS Code, Node.js
 
-🔥 Programming Languages: | JavaScript | Dart | TypeScript |
+## 🌱 Currently
+- Building digital solutions that work everywhere
+- Growing engineering talent through mentorship
+- Sharing knowledge about cross-platform development
 
-🛠 Technology: | ReactJS | Redux | Flutter |
+## 📫 Let's Connect
+- LinkedIn: [kennedy-owusu](https://linkedin.com/in/kennedy-owusu)
+- Medium: [kennedy-owusu](https://medium.com/@kennediowusu)
 
-🚀 Libraries & Frameworks: | Flutter | React | Tailwind CSS |
-
-❣️ Sate Management: | Redux Toolkit | React Query | Riverpod | GetX |
-
-🗣 Database Management: | MySQL | PostgreSQL | Firebase |
-
-💻 Operating Systems: | Ubuntu | Windows | MacOS |
-
-🎯 Version Control: | Git |
-
-💡 Developer tools: | GitHub | GitLab | Bitbucket | Slack |
-
-📊 Software Development Methodologies: | Agile |
+---
+⚡ Fun fact: I believe great apps start with strong vanilla JavaScript fundamentals
 
 --------------------------------------------------------------------
 
