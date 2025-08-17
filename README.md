@@ -1,5 +1,4 @@
 # Hi, I'm Kennedy 👋
---------------------------------------------------------------------
 
 👨🏾‍💻 Frontend Engineer building seamless experiences across web and mobile platforms.
 --------------------------------------------------------------------
