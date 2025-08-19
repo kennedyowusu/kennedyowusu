@@ -1,6 +1,6 @@
 # Hi, I'm Kennedy 👋
 
-👨🏾‍💻 Frontend Engineer building seamless experiences across web and mobile platforms.
+👨🏾‍💻 Software Developer | Building Digital Solutions | Growing Engineering Talent
 --------------------------------------------------------------------
 
 <p align="left center">
