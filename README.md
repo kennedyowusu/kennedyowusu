@@ -10,9 +10,11 @@
 ![](https://komarev.com/ghpvc/?username=kennediowusu&style=flat-square&label=PROFILE+VIEWS&color=lightgrey)
 
 ## 🚀 What I Build
-- Cross-platform mobile apps with React Native & Flutter
-- Responsive web applications with React
-- Strong foundation in vanilla JavaScript
+- **Full-stack applications** — React frontends with Laravel backends, real-time dashboards, and complete system architectures
+- **Cross-platform mobile apps** — Flutter applications with native performance
+- **IoT & embedded systems** — ESP32-based GPS trackers, MQTT communication, sensor integration, production-grade hardware solutions
+- **PCB design & hardware** — Custom circuit design with KiCAD, from schematic to fabrication-ready layouts
+- **Strong foundations** — Everything backed by solid vanilla JavaScript fundamentals and systematic architecture patterns
 
 ## 🛠️ Tech Stack
 - **Frontend:** React, JavaScript, TypeScript, Dart, PHP
@@ -68,6 +70,9 @@
   <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" alt="esp32" width="40" height="40"/> </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> </a>
   <a href="https://mqtt.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="MQTT" /></a>
+  <a href="https://kicad.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kicad/kicad-original.svg" alt="KiCad" width="40" height="40" />
+</a>
 </p>
 
 ### Tools & Platforms
