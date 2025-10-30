@@ -15,14 +15,16 @@
 - Strong foundation in vanilla JavaScript
 
 ## 🛠️ Tech Stack
-- **Frontend:** React, JavaScript, TypeScript, Dart, HTML5, CSS3
-- **Mobile:** React Native, Flutter
+- **Frontend:** React, JavaScript, TypeScript, Dart, PHP
+- **Backend:** Laravel, MySQL, Firebase
+- **Mobile:** Flutter
+- **Embedded & IoT:** ESP32, Arduino, MQTT, FreeRTOS
 - **Tools:** Git, VS Code, Node.js
 
 ## 🌱 Currently
-- Building digital solutions that work everywhere
-- Growing engineering talent through mentorship
-- Sharing knowledge about cross-platform development
+- Building complete systems from hardware to frontend
+- Mentoring the next generation of engineers
+- Sharing knowledge about embedded, full-stack, and cross-platform development
 
 ## 📫 Let's Connect
 - LinkedIn: [kennedy-owusu](https://linkedin.com/in/kennedy-owusu)
@@ -40,6 +42,7 @@
 
 ## 🎯 Skills
 
+### Frontend
 <p align="left">
    <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
@@ -50,6 +53,27 @@
    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
   <a href="http://www.tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
+</p>
+
+### Backend
+<p align="left">
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="Laravel" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+</p>
+
+### Embedded & IoT
+<p align="left">
+  <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" alt="esp32" width="40" height="40"/> </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> </a>
+  <a href="https://mqtt.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="MQTT" /></a>
+</p>
+
+### Tools & Platforms
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 </p>
 
 --------------------------------------------------------------------
@@ -68,7 +92,6 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kennedyowusu&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="kennedyowusu" height="192px"/>
   <br/>
   <br />
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 
 --------------------------------------------------------------------
