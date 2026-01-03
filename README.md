@@ -1,7 +1,7 @@
 # Hi, I'm Kennedy 👋
 
-👨🏾‍💻 Full-Stack IoT Engineer | ESP32 · Laravel · Flutter · React | Building complete systems from firmware to frontend
---------------------------------------------------------------------------------------------------------------------
+👨🏾‍💻 Full-Stack IoT Engineer | ESP32 · Laravel · Flutter · React | Owning end-to-end systems from embedded firmware to production web & mobile apps
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="left center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%230AF7A6&center=true&vCenter=true&lines=Passionate+Developer;Competitive+Programmer;Fast+Learner"></a>
