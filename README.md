@@ -1,6 +1,6 @@
 # Hi, I'm Kennedy 👋
 
-👨🏾‍💻 Full-Stack IoT Engineer | ESP32 · Laravel · Flutter · React | Owning end-to-end systems from embedded firmware to production web & mobile apps
+👨🏾‍💻 Product Engineer | Building Koolbase — Flutter-first BaaS for mobile
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="left center">
