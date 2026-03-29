@@ -1,6 +1,6 @@
 # Hi, I'm Kennedy 👋
 
-👨🏾‍💻 Product Engineer | Building Koolbase — Flutter-first BaaS for mobile
+👨🏾‍💻 Product Engineer | Building Koolbase — Backend as a Service for mobile developers.
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="left center">
