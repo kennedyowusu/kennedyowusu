@@ -1,129 +1,47 @@
 # Hi, I'm Kennedy 👋
-
-👨🏾‍💻 Product Engineer | Building Koolbase — Backend as a Service for mobile developers.
--------------------------------------------------------------------------------------------------------------------------------------------------
-
-<p align="left center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%230AF7A6&center=true&vCenter=true&lines=Passionate+Developer;Competitive+Programmer;Fast+Learner"></a>
-</p>
-
-![](https://komarev.com/ghpvc/?username=kennediowusu&style=flat-square&label=PROFILE+VIEWS&color=lightgrey)
-
-## 🚀 What I Build
-- **Full-stack applications** — React frontends with Laravel backends, real-time dashboards, and complete system architectures
-- **Cross-platform mobile apps** — Flutter applications with native performance
-- **IoT & embedded systems** — ESP32-based GPS trackers, MQTT communication, sensor integration, production-grade hardware solutions
-- **PCB design & hardware** — Custom circuit design with KiCAD, from schematic to fabrication-ready layouts
-- **Strong foundations** — Everything backed by solid vanilla JavaScript fundamentals and systematic architecture patterns
-
-## 🛠️ Tech Stack
-- **Frontend:** React, JavaScript, TypeScript, Dart, PHP
-- **Backend:** Laravel, MySQL, Firebase
-- **Mobile:** Flutter
-- **Embedded & IoT:** ESP32, Arduino, MQTT, FreeRTOS
-- **Tools:** Git, VS Code, Node.js
-
-## 🌱 Currently
-- Building complete systems from hardware to frontend
-- Mentoring the next generation of engineers
-- Sharing knowledge about embedded, full-stack, and cross-platform development
-
-## 📫 Let's Connect
-- LinkedIn: [kennedy-owusu](https://linkedin.com/in/kennedy-owusu)
-- Medium: [kennedy-owusu](https://medium.com/@kennediowusu)
+Product Engineer · Founder of [Koolbase](https://koolbase.com) — Backend as a Service for mobile developers.
 
 ---
-⚡ Fun fact: I believe great apps start with strong vanilla JavaScript fundamentals
 
---------------------------------------------------------------------
+## What I'm Building
 
-- [x] 🌍  I'm based in Accra - Ghana
-- [x] ✉️  You can contact me at [kennediowusu@gmail.com](mailto:kennediowusu@gmail.com)
+**[Koolbase](https://koolbase.com)** — a complete BaaS platform built specifically for Flutter and React Native developers. Auth, database, storage, realtime, serverless functions, feature flags, remote config, code push, analytics, and cloud messaging — one SDK, one `initialize()` call.
 
---------------------------------------------------------------------
+**[FlowScope](https://pub.dev/packages/flowscope)** — a real-time Flutter debugging SDK. Inspect Riverpod state, network requests, and events from an in-app overlay.
 
-## 🎯 Skills
+**[Pemaron](https://pemaron.com)** — distribution management SaaS for field sales teams. Orders, inventory, payments, and role-based access — built for distributors operating at the ground level.
 
-### Frontend
-<p align="left">
-   <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a> 
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
-  <a href="http://www.tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
-</p>
+---
 
-### Backend
-<p align="left">
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="Laravel" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-</p>
+## Tech Stack
 
-### Embedded & IoT
-<p align="left">
-  <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" alt="esp32" width="40" height="40"/> </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> </a>
-  <a href="https://mqtt.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="MQTT" /></a>
-  <a href="https://kicad.org/" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kicad/kicad-original.svg" alt="KiCad" width="40" height="40" />
-</a>
-</p>
+**Languages:** Dart, Go, TypeScript, JavaScript, C++  
+**Mobile:** Flutter, React Native  
+**Backend:** Go (Chi), Laravel, PostgreSQL, Redis  
+**Infrastructure:** Linux, nginx, systemd, PM2  
+**Frontend:** Next.js, Tailwind CSS  
 
-### Tools & Platforms
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
-</p>
+---
 
---------------------------------------------------------------------
+## Currently
 
-## 🔥 Streak Stats
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kennedyowusu&theme=algolia" alt="kennedyowusu" /></p>
+- Shipping Koolbase toward billing and production scale
+- Running Pemaron in production — onboarding first customers
+- Deep systems work — building understanding of the Dart VM and runtime internals
 
---------------------------------------------------------------------
+---
 
-## 📊 Github Stats
-  <br/>
-  <p align="left">
-    <a href="https://github.com/kennedyowusu/github-readme-stats"><img alt="Kennedy Owusu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kennedyowusu&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-  
-  &nbsp;
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kennedyowusu&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="kennedyowusu" height="192px"/>
-  <br/>
-  <br />
-  </p>
+## Published
 
---------------------------------------------------------------------
+- [`koolbase_flutter`](https://pub.dev/packages/koolbase_flutter) — Flutter SDK · v2.6.4 · pub.dev
+- [`koolbase-react-native`](https://www.npmjs.com/package/koolbase-react-native) — React Native SDK · v1.6.1 · npm
+- [`flowscope`](https://pub.dev/packages/flowscope) — Flutter debugging SDK · pub.dev
 
-### Connect with me
+---
 
-<p align="left"> <a href="https://www.linkedin.com/in/kennedy-owusu/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://twitter.com/_iamkobby" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/UCkGH8kYlQAgtB8MuuHOsvJQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
-<a href="https://api.whatsapp.com/send?phone=233546985015" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"></a>
-&#8287;&#8287;&#8287;
-</p>
+## Connect
 
-<!--
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="https://github.com/kennedyowusu"><img src="https://github-readme-stats.vercel.app/api?username=kennedyowusu&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="kennedyowusu's GitHub stats" /></a>
-
-<a href="https://github.com/kennedyowusu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kennedyowusu&stroke=64748b&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=64748b&currStreakLabel=0891b2&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
-
-<a href="http://www.github.com/kennedyowusu"><img src="https://activity-graph.herokuapp.com/graph?username=kennedyowusu&bg_color=ffffff&color=64748b&line=0891b2&point=64748b&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
--->
-
-## :trophy: Git profile Trophies
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kennedyowusu&layout=compact&theme=algolia" alt="kennedyowusu" /></a> </p>
-
---------------------------------------------------------------------
-Credits: [kennedyowusu](https://github.com/kennedyowusu)
+- LinkedIn: [kennedy-owusu](https://linkedin.com/in/kennedy-owusu)
+- Twitter: [@_iamkobby](https://twitter.com/_iamkobby)
+- Email: kennediowusu@gmail.com | techfinityedge@gmail.com
+- Location: Accra, Ghana
