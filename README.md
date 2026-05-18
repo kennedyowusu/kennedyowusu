@@ -5,7 +5,7 @@ Product Engineer · Founder of [Koolbase](https://koolbase.com) — Backend as a
 
 ## What I'm Building
 
-**[Koolbase](https://koolbase.com)** — a complete BaaS platform built specifically for Flutter and React Native developers. Auth, database, storage, realtime, serverless functions, feature flags, remote config, code push, analytics, and cloud messaging — one SDK, one `initialize()` call.
+**[Koolbase](https://koolbase.com)** — a Backend-as-a-Service for product teams building modern applications. It bundles authentication, Postgres with realtime, storage, cloud functions, messaging, analytics, and server-driven UI into a single platform and adds over-the-air code push, so teams can ship updates to production without waiting on store reviews or full redeployment cycles.
 
 **[FlowScope](https://pub.dev/packages/flowscope)** — a real-time Flutter debugging SDK. Inspect Riverpod state, network requests, and events from an in-app overlay.
 
