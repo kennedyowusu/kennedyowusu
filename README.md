@@ -19,7 +19,7 @@ Product Engineer · Founder of [Koolbase](https://koolbase.com) — Backend as a
 **Mobile:** Flutter, React Native  
 **Backend:** Go (Chi), Laravel, PostgreSQL, Redis  
 **Infrastructure:** Linux, nginx, systemd, PM2  
-**Frontend:** Next.js, Tailwind CSS  
+**Frontend:** React, Next.js, Tailwind CSS  
 
 ---
 
