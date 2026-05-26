@@ -33,8 +33,8 @@ Product Engineer · Founder of [Koolbase](https://koolbase.com) — Backend as a
 
 ## Published
 
-- [`koolbase_flutter`](https://pub.dev/packages/koolbase_flutter) — Flutter SDK · v2.6.4 · pub.dev
-- [`koolbase-react-native`](https://www.npmjs.com/package/koolbase-react-native) — React Native SDK · v1.6.1 · npm
+- [`koolbase_flutter`](https://pub.dev/packages/koolbase_flutter) — Flutter SDK · pub.dev
+- [`koolbase-react-native`](https://www.npmjs.com/package/koolbase-react-native) — React Native SDK · npm
 - [`flowscope`](https://pub.dev/packages/flowscope) — Flutter debugging SDK · pub.dev
 
 ---
