@@ -7,10 +7,6 @@ Product Engineer · Founder of [Koolbase](https://koolbase.com) — Backend as a
 
 **[Koolbase](https://koolbase.com)** — a Backend-as-a-Service for product teams building modern applications. It bundles authentication, Postgres with realtime, storage, cloud functions, messaging, analytics, and server-driven UI into a single platform and adds over-the-air code push, so teams can ship updates to production without waiting on store reviews or full redeployment cycles.
 
-**[FlowScope](https://pub.dev/packages/flowscope)** — a real-time Flutter debugging SDK. Inspect Riverpod state, network requests, and events from an in-app overlay.
-
-**[Pemaron](https://pemaron.com)** — distribution management SaaS for field sales teams. Orders, inventory, payments, and role-based access — built for distributors operating at the ground level.
-
 ---
 
 ## Tech Stack
@@ -23,25 +19,15 @@ Product Engineer · Founder of [Koolbase](https://koolbase.com) — Backend as a
 
 ---
 
-## Currently
-
-- Shipping Koolbase toward billing and production scale
-- Running Pemaron in production — onboarding first customers
-- Deep systems work — building understanding of the Dart VM and runtime internals
-
----
-
 ## Published
 
 - [`koolbase_flutter`](https://pub.dev/packages/koolbase_flutter) — Flutter SDK · pub.dev
 - [`koolbase-react-native`](https://www.npmjs.com/package/koolbase-react-native) — React Native SDK · npm
-- [`flowscope`](https://pub.dev/packages/flowscope) — Flutter debugging SDK · pub.dev
-
+  
 ---
 
 ## Connect
 
 - LinkedIn: [kennedy-owusu](https://linkedin.com/in/kennedy-owusu)
 - Twitter: [@_iamkobby](https://twitter.com/_iamkobby)
-- Email: kennediowusu@gmail.com | techfinityedge@gmail.com
-- Location: Accra, Ghana
+- Email: dev@koolbase.com
