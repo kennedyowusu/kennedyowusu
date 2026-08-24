@@ -1,5 +1,5 @@
 # Hi, I'm Kennedy 👋
-Product Engineer · Founder of [Koolbase](https://koolbase.com) — Backend as a Service for mobile developers.
+Product Engineer · Founder of [Koolbase](https://koolbase.com)
 
 ---
 
