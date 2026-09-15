@@ -5,7 +5,7 @@ Product Engineer · Founder of [Koolbase](https://koolbase.com)
 
 ## What I'm Building
 
-**[Koolbase](https://koolbase.com)** — a Backend-as-a-Service for product teams building modern applications. It bundles authentication, Postgres with realtime, storage, cloud functions, messaging, analytics, and server-driven UI into a single platform and adds over-the-air code push, so teams can ship updates to production without waiting on store reviews or full redeployment cycles.
+**[Koolbase](https://koolbase.com)** — From idea to app. And everything after.
 
 ---
 
