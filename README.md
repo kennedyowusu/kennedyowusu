@@ -1,11 +1,11 @@
 # Hi, I'm Kennedy 👋
-Product Engineer · Founder of [Koolbase](https://koolbase.com)
+Founder of [Koolbase](https://koolbase.com)
 
 ---
 
 ## What I'm Building
 
-**[Koolbase](https://koolbase.com)** — From idea to app. And everything after.
+**[Koolbase](https://koolbase.com)** — Turn ideas into working mobile and web apps.
 
 ---
 
@@ -30,4 +30,4 @@ Product Engineer · Founder of [Koolbase](https://koolbase.com)
 
 - LinkedIn: [kennedy-owusu](https://linkedin.com/in/kennedy-owusu)
 - Twitter: [@_iamkobby](https://twitter.com/_iamkobby)
-- Email: dev@koolbase.com
+- Email: kennediowusu@gmail.com
