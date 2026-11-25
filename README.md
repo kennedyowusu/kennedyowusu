@@ -5,7 +5,7 @@ Founder of [Koolbase](https://koolbase.com)
 
 ## What I'm Building
 
-**[Koolbase](https://koolbase.com)** — Turn ideas into working mobile and web apps.
+**[Koolbase](https://koolbase.com)** — Skip the complexity. Build something Kool with AI.
 
 ---
 
